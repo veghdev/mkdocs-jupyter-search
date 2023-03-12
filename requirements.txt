@@ -1,0 +1,5 @@
+ipyvizzu-story
+mkdocs
+mkdocs-material
+mkdocs-jupyter
+notebook
